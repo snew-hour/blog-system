@@ -1,0 +1,24 @@
+# ========== Maven ==========
+target/
+*.jar
+*.class
+
+# ========== IDE ==========
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# ========== System ==========
+.DS_Store
+Thumbs.db
+
+# ========== Logs ==========
+logs/
+*.log
+
+# ========== Config Overrides ==========
+application-local.yml
+application-prod.yml
